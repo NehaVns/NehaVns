@@ -2,8 +2,7 @@ Hey folks <img src = "https://github.com/NehaVns/NehaVns/blob/main/Hi.gif" width
 -------------------------------------
 - 👀 I’m interested in Competitive coding, App development, Cyber security and System administration(LINUX).
 - 🌱 I’m currently learning advanced topics in Kotlin .
-- 📫 Reach me on : linkedin.com/in/nehakumari7202
-      Email     :  nehavns2848@gmail.com
+- Connect with me on : [LinkedIn](linkedin.com/in/nehakumari7202)
 
 <!---
 NehaVns/NehaVns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
