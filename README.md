@@ -1,4 +1,4 @@
-Hey folks, I am Neha!
+Hey folks , I'm- Neha!
 =====================================================================================================================
 - 👀 I’m interested in Competitive coding, App development, Cyber security and System administration(LINUX).
 - 🌱 I’m currently learning advanced topics in Kotlin .
