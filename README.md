@@ -65,8 +65,10 @@ I am confident in my ability and extremely motivated to develop new skills for u
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/NehaVns/NehaVns/blob/main/Python%20icon.webp" alt="Python" width="40" height="40"/> </a> 
+   <a href="https://www.programiz.com/c-programming" target="_blank" rel="noreferrer"> <img src="https://github.com/NehaVns/NehaVns/blob/main/C_programming_logo.png" alt="C" width="40" height="40"/> </a> 
   
-<!--  https://github.com/NehaVns/NehaVns/blob/main/Python%20icon.webp-->
+<!--  https://github.com/NehaVns/NehaVns/blob/main/Python%20icon.webp
+https://github.com/NehaVns/NehaVns/blob/main/C_programming_logo.png-->
   
   
 
