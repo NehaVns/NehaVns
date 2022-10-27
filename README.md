@@ -1,4 +1,4 @@
-Hey folks <img src = "https://github.com/NehaVns/NehaVns/blob/main/Hi.gif" width = "30" height = "30"/>, I'm- Neha!
+<center>Hey folks <img src = "https://github.com/NehaVns/NehaVns/blob/main/Hi.gif" width = "30" height = "30"/>, I'm- Neha Kumari!</center>
 -------------------------------------
 - 👀 I’m interested in Competitive coding, Android app development, Cyber security and System administration(LINUX).
 - 🌱 I’m currently learning Java and Kotlin .
