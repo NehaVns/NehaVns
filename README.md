@@ -11,6 +11,8 @@ I am confident in my ability and extremely motivated to develop new skills for u
 - 👯  Open source contributer.<br>
 - 📲  Connect with me on [LinkedIn](https://www.linkedin.com/in/nehakumari7202/)<br>
 
+<h3><u>HACTOBERFEST Badge Board</u></h3>
+[![@nehavns2848's Holopin board](https://holopin.me/nehavns2848)](https://holopin.io/@nehavns2848)
 <!---
 <img src = https://github.com/NehaVns/NehaVns/blob/main/BrandDesign.png width = "100%" height = "300"/>
 🌱--->
