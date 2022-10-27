@@ -4,7 +4,7 @@ I am confident in my ability and extremely motivated to develop new skills for u
 </h3>
 <br>
 
-- 💻  I code in several different languages like Java, C, Java, and Python.<br>
+- 💻  I code in several different languages like C, Java, and Python.<br>
 - 😎  I’m currently working on Android app development using Kotlin .<br>
 - 🔭  Other area of interest include Competitive coding, Cyber security and System administration(LINUX).<br>
 - 🧿  Pronouns: She/Her.<br>
