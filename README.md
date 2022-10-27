@@ -35,24 +35,20 @@ I am confident in my ability and extremely motivated to develop new skills for u
 
 
 ### ⚡Programming Languages & Tools 🌐 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
- ![Profile views](https://gpvc.arturio.dev/Suryansh1720001)  
-
-
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 
 <h2 align="center">My Contribution Streak !! :fire:</h2>
 
 <p align="center">
    <a>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh1720001&theme=dark&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NehaVns&theme=dark&hide_border=true"/>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
    </a>
 </p>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Suryansh1720001&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=NehaVns&theme=react-dark&hide_border=true&area=true)
 
 
 
@@ -63,11 +59,11 @@ I am confident in my ability and extremely motivated to develop new skills for u
 <table>
    <tr>
       <td rowspan=1>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh1720001&theme=dark" align="center"/>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaVns&theme=dark" align="center"/>
       </td>
    </tr>
    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Suryansh1720001&count_private=true&theme=dark&show_icons=true" align="center"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=NehaVns&count_private=true&theme=dark&show_icons=true" align="center"/></td>
    </tr>
 </table>
 <br/>
