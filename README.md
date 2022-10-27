@@ -11,37 +11,11 @@ I am confident in my ability and extremely motivated to develop new skills for u
 - 👯  Open source contributer.<br>
 - 📲  Connect with me on [LinkedIn](https://www.linkedin.com/in/nehakumari7202/)<br>
 
-<h3><u>HACTOBERFEST'22 Badge Board</u></h3>
+<h3 align = "center"><u>HACTOBERFEST'22 Badge Board</u></h3>
 
 [![@nehavns2848's Holopin board](https://holopin.me/nehavns2848)](https://holopin.io/@nehavns2848)
 
 <!---✨   ➡ ARROW   🌱--->
-
-  ## <img src="https://user-images.githubusercontent.com/85965606/194889084-1bef1898-35cb-4db0-916c-9574c7a5aa9e.gif" height="50px" /> Let's be friends and get connected!!
-
-<p align="left">
-   <!-- ---------------------------------------------------------------- -->
-    <a target="_blank"href="https://github.com/NehaVns"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a href="https://twitter.com/nehavns2848"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a target="_blank"href="https://www.linkedin.com/in/nehakumari7202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-    <a target="_blank"href="https://www.instagram.com/neha2.848/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <!-- ---------------------------------------------------------------- -->
-</p>
-
-
-
-
-###  Programming Languages & Tools 
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/NehaVns/NehaVns/blob/main/Python%20icon.webp" alt="Python" width="40" height="40"/> </a> 
-  
-<!--  https://github.com/NehaVns/NehaVns/blob/main/Python%20icon.webp-->
-  
-  
 
 <h2 align="center">My Contribution Streak !!</h2>
 
@@ -70,6 +44,33 @@ I am confident in my ability and extremely motivated to develop new skills for u
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=NehaVns&theme=react-dark&hide_border=true&area=true)
+  ## <img src="https://user-images.githubusercontent.com/85965606/194889084-1bef1898-35cb-4db0-916c-9574c7a5aa9e.gif" height="50px" /> Let's be friends and get connected!!
+
+<p align="left">
+   <!-- ---------------------------------------------------------------- -->
+    <a target="_blank"href="https://github.com/NehaVns"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+   <a href="https://twitter.com/nehavns2848"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+   <a target="_blank"href="https://www.linkedin.com/in/nehakumari7202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    <a target="_blank"href="https://www.instagram.com/neha2.848/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+   <!-- ---------------------------------------------------------------- -->
+</p>
+
+
+
+
+###  Programming Languages & Tools 
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/NehaVns/NehaVns/blob/main/Python%20icon.webp" alt="Python" width="40" height="40"/> </a> 
+  
+<!--  https://github.com/NehaVns/NehaVns/blob/main/Python%20icon.webp-->
+  
+  
+
+
 
 <div align="center">
   
