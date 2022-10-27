@@ -3,9 +3,9 @@
 <img src = https://github.com/NehaVns/NehaVns/blob/main/BrandDesign.png width = "100%" height = "300"/>
 🌱--->
 <h3>
-- 👀  I code in several different languages like Java, C, Java, and Python.
-- 👀  I’m currently working on Android app development using Kotlin .
-- 👀  Other area of interest include Competitive coding, Cyber security and System administration(LINUX).
+- 👀  I code in several different languages like Java, C, Java, and Python.<br>
+- 👀  I’m currently working on Android app development using Kotlin .<br>
+- 👀  Other area of interest include Competitive coding, Cyber security and System administration(LINUX).<br>
 </h3>
 [![@nehavns2848's Holopin board](https://holopin.me/nehavns2848)](https://holopin.io/@nehavns2848)
 
