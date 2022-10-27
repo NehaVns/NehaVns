@@ -42,7 +42,7 @@ I am confident in my ability and extremely motivated to develop new skills for u
 
 <p align="center">
    
-  <table>
+  <table align = "center">
     <tr>
       <td><a>
    <!--<img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">-->
@@ -65,26 +65,6 @@ I am confident in my ability and extremely motivated to develop new skills for u
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=NehaVns&theme=react-dark&hide_border=true&area=true)
-
-
-
-
-
-## Some facts 😄:
-
-<table>
-   <tr>
-      <td rowspan=1>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaVns&theme=dark" align="center"/>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=NehaVns&count_private=true&theme=dark&show_icons=true" align="center"/></td>
-   </tr>
-</table>
-<br/>
-
-
 
 <div align="center">
   
