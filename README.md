@@ -41,11 +41,26 @@ I am confident in my ability and extremely motivated to develop new skills for u
 <h2 align="center">My Contribution Streak !!</h2>
 
 <p align="center">
-   <a>
+   
+  <table>
+    <tr>
+      <td><a>
    <!--<img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">-->
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NehaVns&theme=dark&hide_border=true"/>
    <!--<img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> -->
    </a>
+      </td
+    </tr>
+   <tr>
+      <td rowspan=1>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaVns&theme=dark" align="center"/>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=NehaVns&count_private=true&theme=dark&show_icons=true" align="center"/></td>
+   </tr>
+</table>
+<br/>
 </p>
 
 
