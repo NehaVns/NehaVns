@@ -17,10 +17,7 @@ I am confident in my ability and extremely motivated to develop new skills for u
 
 <!---✨   ➡ ARROW   🌱--->
 
-  ## 📲 Connect with me on social media
-<h3 align="left"><img src="https://user-images.githubusercontent.com/85965606/194889084-1bef1898-35cb-4db0-916c-9574c7a5aa9e.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
-<p align="left">
-   
+  ## <img src="https://user-images.githubusercontent.com/85965606/194889084-1bef1898-35cb-4db0-916c-9574c7a5aa9e.gif" height="50px" /> Let's be friends and get connected!!
 
 <p align="left">
    <!-- ---------------------------------------------------------------- -->
