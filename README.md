@@ -9,10 +9,7 @@ I am confident in my ability and extremely motivated to develop new skills for u
 - 🔭  Other area of interest include Competitive coding, Cyber security and System administration(LINUX).<br>
 - 🧿  Pronouns: She/Her.<br>
 - 👯  Open source contributer.<br>
-</h3>
-[![@nehavns2848's Holopin board](https://holopin.me/nehavns2848)](https://holopin.io/@nehavns2848)
-
-- Connect with me on : [LinkedIn](https://www.linkedin.com/in/nehakumari7202/)
+- 📲  Connect with me on [LinkedIn](https://www.linkedin.com/in/nehakumari7202/)<br>
 
 <!---
 <img src = https://github.com/NehaVns/NehaVns/blob/main/BrandDesign.png width = "100%" height = "300"/>
