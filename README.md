@@ -43,7 +43,9 @@ I am confident in my ability and extremely motivated to develop new skills for u
 </p>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=NehaVns&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://ghactivity.mrayush.me/graph?username=NehaVns&theme=react-dark&hide_border=true&area=true)
+
+
   ## <img src="https://user-images.githubusercontent.com/85965606/194889084-1bef1898-35cb-4db0-916c-9574c7a5aa9e.gif" height="50px" /> Let's be friends and get connected!!
 
 <p align="left">
