@@ -38,9 +38,17 @@ I am confident in my ability and extremely motivated to develop new skills for u
    <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=NehaVns&count_private=true&theme=dark&show_icons=true" align="center"/></td>
    </tr>
+   
 </table>
 <br/>
 </p>
+<p align="center">
+  <a href="https://quine.sh">
+    <img src="https://stats.quine.sh/NehaVns/github?theme=light" alt="NehaVns's GitHub | Stats">
+  </a>
+</p>
+
+
 
 
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=NehaVns&theme=react-dark&hide_border=true&area=true) -->
