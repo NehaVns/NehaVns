@@ -52,9 +52,10 @@ I am confident in my ability and extremely motivated to develop new skills for u
 </p>
 <p align="center">
   <a href="https://quine.sh">
-    <img src="https://stats.quine.sh/NehaVns/github?theme=light" alt="NehaVns's GitHub | Stats">
+    <img src="https://stats.quine.sh/NehaVns/github?theme=dark" alt="NehaVns's GitHub | Stats">
   </a>
 </p>
+
 <p align="center">
   <img src="./rainbow-superthin.gif">
 </p>
