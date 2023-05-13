@@ -10,10 +10,18 @@ I am confident in my ability and extremely motivated to develop new skills for u
 - 🧿  Pronouns: She/Her.<br>
 - 👯  Open source contributer.<br>
 - 📲  Connect with me on [LinkedIn](https://www.linkedin.com/in/nehakumari7202/)<br>
+<p align="center">
+  <img src="./rainbow-superthin.gif">
+</p>
+
 
 <h3 align = "center"><u>HACTOBERFEST'22 Badge Board</u></h3>
 
 [![@nehavns2848's Holopin board](https://holopin.me/nehavns2848)](https://holopin.io/@nehavns2848)
+
+<p align="center">
+  <img src="./rainbow-superthin.gif">
+</p>
 
 <!---✨   ➡ ARROW   🌱--->
 
@@ -47,7 +55,9 @@ I am confident in my ability and extremely motivated to develop new skills for u
     <img src="https://stats.quine.sh/NehaVns/github?theme=light" alt="NehaVns's GitHub | Stats">
   </a>
 </p>
-
+<p align="center">
+  <img src="./rainbow-superthin.gif">
+</p>
 
 
 
@@ -63,7 +73,9 @@ I am confident in my ability and extremely motivated to develop new skills for u
    <!-- ---------------------------------------------------------------- -->
 </p>
 
-
+<p align="center">
+  <img src="./rainbow-superthin.gif">
+</p>
 
 ##  Programming Languages & Tools 
 <p align="left"> 
